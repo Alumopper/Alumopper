@@ -2,8 +2,7 @@
 
 My English is not good, so i always feel nervous...｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡
 
-~~虽然也不算差啦，学过雅思，四六级分数都挺高的（~~
-~~就是单纯社恐！~~
+~~其实就是单纯社恐！~~
 
 <div align="center">
   
@@ -16,5 +15,7 @@ My English is not good, so i always feel nervous...｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡
 高二开始学C和Java，虽然很喜欢编程但是我的专业是——材料学？是的啦，是喜欢化学也喜欢编程的雪狐哦。~~导师在让我看机器学习的东西，说可以用机器学习研究材料学（~~
 
 唔？问我现在在做什么，那就看看我置顶的仓库啦。做mc数据包的，当然最近也在学做独立游戏的说。对了对了，如果你也是写mc命令或者做数据包的，一定记得看看我们的Project MCFPP哦！
+
+还有支持[香草图书馆](vanillalibrary.mcfpp.top)谢谢喵！支持[香草前置馆](vanillalibrary.mcfpp.top/wheel)谢谢喵！
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alumopper&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
