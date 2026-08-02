@@ -12,4 +12,9 @@ My English is not good, so i always feel nervous...｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡
 
 还有支持[香草图书馆](https://vanillalibrary.mcfpp.top)谢谢喵！支持[香草前置馆](https://vanillalibrary.mcfpp.top/wheel)谢谢喵！
 
-[![GitHub Roast](https://githubroast.dev/api/card/Alumopper?theme=dark)](https://githubroast.dev/u/Alumopper)
+<a href="https://ghfind.com/u/alumopper?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/alumopper?variant=radar&theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/alumopper?variant=radar&theme=light" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
