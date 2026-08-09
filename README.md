@@ -20,4 +20,8 @@ My English is not good, so i always feel nervous...｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡
 </a>
 
 <!-- GitHub Profile 3D Contrib -->
-![](./profile-3d-contrib/profile-night-green.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+  <img src="./profile-3d-contrib/profile-green.svg" alt="GitHub Profile 3D Contributions" />
+</picture>
